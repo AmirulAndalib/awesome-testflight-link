@@ -7916,6 +7916,14 @@
         "ios"
       ],
       "last_modify": "2026-09-09"
+    },
+    "5yWqNvbx": {
+      "app_name": "HLSDownloader",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-09-10"
     }
   }
 }
