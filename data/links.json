@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-16"
+      "last_modify": "2026-09-10"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -2910,11 +2910,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-10"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3134,11 +3134,11 @@
     },
     "uN1vTqxk": {
       "app_name": "Scriptable",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-01"
+      "last_modify": "2026-09-10"
     },
     "mE5hKgqL": {
       "app_name": "Scruge",
@@ -4343,11 +4343,11 @@
     },
     "H82FVVt6": {
       "app_name": "CardioBot - Heart Rate Monitor",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-04"
+      "last_modify": "2026-09-10"
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-10"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5505,11 +5505,11 @@
     },
     "vkLIflUJ": {
       "app_name": "Windows App Mobile",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-23"
+      "last_modify": "2026-09-10"
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
@@ -6057,11 +6057,11 @@
     },
     "Rfr1mzqS": {
       "app_name": "红果短剧 - 海量热门短剧随心看",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-08"
+      "last_modify": "2026-09-10"
     },
     "mAE3jS7i": {
       "app_name": "豆包",
@@ -6453,11 +6453,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-27"
+      "last_modify": "2026-09-10"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
@@ -6570,13 +6570,13 @@
     },
     "1AlPbnLZ": {
       "app_name": "Home Assistant",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "ipados",
         "macos"
       ],
-      "last_modify": "2026-08-04"
+      "last_modify": "2026-09-10"
     },
     "SHDm9HrJ": {
       "app_name": "Spectra - System Monitor",
@@ -7793,11 +7793,11 @@
     },
     "9GTuC9Ri": {
       "app_name": "微博",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-10"
     },
     "47XmGuKU": {
       "app_name": "Theta Wellness",
