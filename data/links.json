@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-09-02"
+      "last_modify": "2026-09-11"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -1101,11 +1101,11 @@
     },
     "njVWbUm0": {
       "app_name": "Facebook Messenger",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-09-11"
     },
     "GFoIW08E": {
       "app_name": "faced.io",
@@ -1421,11 +1421,11 @@
     },
     "mmJ9mS6M": {
       "app_name": "GIFwrapped",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-16"
+      "last_modify": "2026-09-11"
     },
     "QIVXLkkn": {
       "app_name": "GitHawk for GitHub",
@@ -3446,12 +3446,12 @@
     },
     "7lt2tesn": {
       "app_name": "Spotify: Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios",
         "tvos"
       ],
-      "last_modify": "2026-08-24"
+      "last_modify": "2026-09-11"
     },
     "EeNKSIBZ": {
       "app_name": "SSRVPN",
@@ -3623,11 +3623,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-08"
+      "last_modify": "2026-09-11"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4351,11 +4351,11 @@
     },
     "1SyedSId": {
       "app_name": "Spotify - Music and Podcasts",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-08"
+      "last_modify": "2026-09-11"
     },
     "hTa12wLY": {
       "app_name": "Gospel Living",
@@ -4559,11 +4559,11 @@
     },
     "gPYINGCJ": {
       "app_name": "Keka",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-08-28"
+      "last_modify": "2026-09-11"
     },
     "66c1wW8y": {
       "app_name": "Mammoth: for Mastodon",
@@ -4663,11 +4663,11 @@
     },
     "Sq8bYSnJ": {
       "app_name": "Duolingo",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-09-11"
     },
     "KxmTfa2j": {
       "app_name": "HappySteps",
@@ -4727,11 +4727,11 @@
     },
     "4qfWwXvP": {
       "app_name": "Pockity",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07"
+      "last_modify": "2026-09-11"
     },
     "BScDI9fh": {
       "app_name": "Myphysique",
@@ -4847,11 +4847,11 @@
     },
     "KNyadcIZ": {
       "app_name": "Microsoft Loop beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-03"
+      "last_modify": "2026-09-11"
     },
     "8oUnDzMQ": {
       "app_name": "Xbox Family Settings beta",
@@ -4903,11 +4903,11 @@
     },
     "PMfu4nmW": {
       "app_name": "AdGuard  — adblock&privacy beta",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-10"
+      "last_modify": "2026-09-11"
     },
     "lNC9vsQM": {
       "app_name": "Icon Simulator beta",
@@ -5409,11 +5409,11 @@
     },
     "90DvGBOE": {
       "app_name": "Onion Browser",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-10"
+      "last_modify": "2026-09-11"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -6985,11 +6985,11 @@
     },
     "K28iQVlZ": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-09"
+      "last_modify": "2026-09-11"
     },
     "iT3Y716Q": {
       "app_name": "TikTok -Global Video Community",
@@ -7561,11 +7561,11 @@
     },
     "S2gEF65P": {
       "app_name": "Inventury",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-01"
+      "last_modify": "2026-09-11"
     },
     "RXCX9hyK": {
       "app_name": "Grok Usage",
@@ -7649,11 +7649,11 @@
     },
     "wYsSXUB5": {
       "app_name": "DuckRead: AI Focus Reader",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-09-07"
+      "last_modify": "2026-09-11"
     },
     "zjj57upc": {
       "app_name": "Lupora",
